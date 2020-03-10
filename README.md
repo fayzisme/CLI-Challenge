@@ -37,8 +37,6 @@ Namun harus mengisi manual semua konfigurasi seperti name, version, description,
 ````sh
 $ npm init -y
 ````
-
-Muhammad Zulfadli, [08.03.20 23:29]
 Maka akan menghasilkan file 'Package.JSON'seperti ini : 
 ````sh
 {
